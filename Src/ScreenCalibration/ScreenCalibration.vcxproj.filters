@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="screencalibration.cpp" />
+    <ClCompile Include="screendetect.cpp" />
+    <ClCompile Include="global.cpp" />
+    <ClCompile Include="screencalib.cpp" />
+    <ClCompile Include="findrectcontour.cpp" />
+    <ClCompile Include="maincamera.cpp" />
+    <ClCompile Include="screen.cpp" />
+    <ClCompile Include="pointdetectcalibration.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="screendetect.h" />
+    <ClInclude Include="global.h" />
+    <ClInclude Include="screencalib.h" />
+    <ClInclude Include="findrectcontour.h" />
+    <ClInclude Include="maincamera.h" />
+    <ClInclude Include="screen.h" />
+    <ClInclude Include="pointdetectcalibration.h" />
+  </ItemGroup>
+</Project>

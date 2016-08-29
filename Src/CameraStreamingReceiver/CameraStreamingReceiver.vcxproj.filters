@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="camerastreamingreceiver.cpp" />
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="Common\dxcapture.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\dxcaptureutil.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\launcher.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\packetqueue.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\session.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\streamingsender.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\tcpclient.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\tcpserver.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\udpclient.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\udpserver.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\streamingreceiver.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="Common\dxcapture.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\dxcaptureutil.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\launcher.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\network.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\packetqueue.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\protocol.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\session.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\streaming.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\streamingsender.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\tcpclient.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\tcpserver.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\udpclient.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\udpserver.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\streamingreceiver.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Common">
+      <UniqueIdentifier>{9556715c-be1b-4a08-8630-c602a35e567b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

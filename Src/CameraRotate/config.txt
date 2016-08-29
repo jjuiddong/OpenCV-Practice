@@ -1,0 +1,14 @@
+
+screen_width = 1024
+screen_height = 768
+camera_width = 640
+camera_height = 480
+screen_binary_threshold = 55
+binary_threshold = 95
+rotate_sensitivity = 200  # range = 0~300 
+
+detect_point_minarea = 50
+detect_point_maxarea = 200
+
+
+

@@ -1,0 +1,10 @@
+* DarkCamCalibrator Ver. 1.0
+ - 카메라 캘리브레이션 프로그램
+ - by 다크 프로그래머, 2014. 7.
+ - http://darkpgmr.tistory.com/139
+
+* 특징 및 사용법
+ - polynomial model과 fisheye model을 동시 지원
+ - 실시간 웹캠 이미지 획득
+ - 렌즈왜곡 캘리브레이션 on/off 기능
+

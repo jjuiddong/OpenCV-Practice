@@ -1,2 +1,2 @@
 # OpenCV-Practice
-opencv practice 
+opencv practice project using c++, visual studio

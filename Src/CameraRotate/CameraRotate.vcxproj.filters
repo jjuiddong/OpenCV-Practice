@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="camera.cpp" />
+    <ClCompile Include="CameraDistortion.cpp" />
+    <ClCompile Include="global.cpp" />
+    <ClCompile Include="screen.cpp" />
+    <ClCompile Include="detectrectpoint.cpp" />
+    <ClCompile Include="rotatecamera.cpp" />
+    <ClCompile Include="rectcontrours.cpp" />
+    <ClCompile Include="config.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CameraDistortion.h" />
+    <ClInclude Include="use_opencv.h" />
+    <ClInclude Include="camera.h" />
+    <ClInclude Include="global.h" />
+    <ClInclude Include="screen.h" />
+    <ClInclude Include="detectrectpoint.h" />
+    <ClInclude Include="rotatecamera.h" />
+    <ClInclude Include="rectcontrours.h" />
+    <ClInclude Include="config.h" />
+  </ItemGroup>
+</Project>
