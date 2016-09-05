@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "create_board", "create_boar
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "camera_calib", "camera_calib\camera_calib.vcxproj", "{E3BEE53C-EE9B-4E3B-9677-CFE231EBFF1B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "create_marker", "create_marker\create_marker.vcxproj", "{58F1404B-105A-45C6-A1BB-5BEC2524B7EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{E3BEE53C-EE9B-4E3B-9677-CFE231EBFF1B}.Release|x64.Build.0 = Release|x64
 		{E3BEE53C-EE9B-4E3B-9677-CFE231EBFF1B}.Release|x86.ActiveCfg = Release|Win32
 		{E3BEE53C-EE9B-4E3B-9677-CFE231EBFF1B}.Release|x86.Build.0 = Release|Win32
+		{58F1404B-105A-45C6-A1BB-5BEC2524B7EA}.Debug|x64.ActiveCfg = Debug|x64
+		{58F1404B-105A-45C6-A1BB-5BEC2524B7EA}.Debug|x64.Build.0 = Debug|x64
+		{58F1404B-105A-45C6-A1BB-5BEC2524B7EA}.Debug|x86.ActiveCfg = Debug|Win32
+		{58F1404B-105A-45C6-A1BB-5BEC2524B7EA}.Debug|x86.Build.0 = Debug|Win32
+		{58F1404B-105A-45C6-A1BB-5BEC2524B7EA}.Release|x64.ActiveCfg = Release|x64
+		{58F1404B-105A-45C6-A1BB-5BEC2524B7EA}.Release|x64.Build.0 = Release|x64
+		{58F1404B-105A-45C6-A1BB-5BEC2524B7EA}.Release|x86.ActiveCfg = Release|Win32
+		{58F1404B-105A-45C6-A1BB-5BEC2524B7EA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
